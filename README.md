@@ -24,4 +24,3 @@ Download the [Jupyter notebook](https://github.com/arjunchndr/Star-Wars-Survey/b
 * [Pandas](http://pandas.pydata.org/pandas-docs/stable/install.html) 
 * [Jupyter 5.1.0](http://jupyter.org/install.html) 
 * [Matplotlib 2.1.0](https://matplotlib.org/2.1.0/index.html)
-
